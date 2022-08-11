@@ -1,4 +1,6 @@
-<!--- Provide a general summary of your changes in the Title above -->
+<!--- Provide the Story ID and Name in the Title above. E.g.:
+[2738] Investigate integrating deep-linking with push notifications
+-->
 
 ## Proposed changes
 <!-- NOTE ------------------------------------------------------------
